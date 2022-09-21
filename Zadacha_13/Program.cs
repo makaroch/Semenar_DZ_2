@@ -15,4 +15,3 @@ if (x/100 != 0) {
     Console.WriteLine(x);
 } else
     Console.WriteLine("нет третьей цифры");
-

@@ -15,4 +15,3 @@ if (x <= 0 ){
     Console.WriteLine("выхоной");
 } else if (x >= 8) 
     Console.WriteLine("введте цифру от 1 до 7 включительно");
-    
